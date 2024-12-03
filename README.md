@@ -10,8 +10,7 @@ This repository contains a CRT shader designed for use with the Godot 4.3 game e
 
 ## Usage
 
-To use this shader, you can consult godot official docs:[高级后期处理](https://docs.godotengine.org/zh-cn/4.x/tutorials/shaders/advanced_postprocessing.html)
-You can simply create a MeshInstance3D and use it as its shader material.
+To use this shader, just download the "CRT3D.gdshader" file. Then you can consult godot official docs:[高级后期处理](https://docs.godotengine.org/zh-cn/4.x/tutorials/shaders/advanced_postprocessing.html). Simply create a MeshInstance3D and use it as its shader material does well.
 If you want to modify parameters, you can modify them at the beginning of the file. Although I suggest to use the parameters I set since they were perfect to me.
 
 ## License
